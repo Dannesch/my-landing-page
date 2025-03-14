@@ -17,7 +17,7 @@ export default function Home() {
           Network Administrator / Occasional Vegan / Visionary
         </p>
         <motion.img
-          src="/DSC08715.JPG"
+          src="/DSC05546_v0.jpg"
           alt="My Image"
           className="w-64 h-64 mx-auto mb-4 rounded-full border-4 border-blue-500 shadow-lg object-cover"
           whileHover={{ scale: 1.1 }}
