@@ -14,7 +14,7 @@ export default function Home() {
       >
         <h1 className="text-3xl font-bold mb-4">Daniel Schembri</h1>
         <p className="text-lg mb-6">
-          Network Administrator / Occasional Vegan / Visionary
+          Network Administrator / Event technician / Student
         </p>
         <motion.img
           src="/DSC05546_v0.jpg"
